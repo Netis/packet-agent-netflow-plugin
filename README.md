@@ -9,7 +9,7 @@
 Netflow Monitor Plugin( or extension) is a dynamic library for interface traffic monitor along with Netis Packet Agent. It based on fprobe and can support Netflow V1/5/7 protocols.
 
 ## Getting Started
-### Installation
+### Build
 ```bash
 cd ./packet-agent-netflow-plugin/
 mkdir build
