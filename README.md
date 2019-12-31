@@ -1,15 +1,15 @@
 
 # Netflow Monitor Plugin 0.1.0
 
-[![Stable release](https://img.shields.io/badge/version-0.0.1-green.svg)](https://github.com/Netis/packet-agent/releases/tag/0.3.5)
-[![Software License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](./LICENSE)
+[![Stable release](https://img.shields.io/badge/version-0.1.0-green.svg)](./README.md)
+[![Software License](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](./COPYING)
 
 
 ## Introduce
 Netflow Monitor Plugin( or extension) is a dynamic library for interface traffic monitor along with Netis Packet Agent. It based on fprobe and can support Netflow V1/5/7 protocols.
 
 ## Getting Started
-### Build
+### Installation
 ```bash
 cd ./packet-agent-netflow-plugin/
 mkdir build
@@ -90,8 +90,8 @@ Now only support Linux platform.
 Fork the project and send pull requests. We welcome pull requests from members of all open source community.
 
 ## License
-Copyright (c) 2019 Netis.<br/>
-- This plugin source code is licensed under the [GPL v2](./LICENSE).
+Copyright (c) 2019 - 2020 Netis.<br/>
+- This plugin source code is licensed under the [GPL v2](./COPYING).
 
 ## Contact info
 * You can E-mail to [developer@netis.com](mailto:developer@netis.com).
